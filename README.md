@@ -1,8 +1,8 @@
-# chunkJavaReceiver
+# chunkJavaClient
 
 ======================
 
-A java based raw client chunk receiver with the merging of the file.
+A java based raw client chunk receiver which has also the chunk connector.
 
 This work is created for my thesis application Multisource Video Streaming. 
 Here you can find the http://www.aueb.gr/users/vsiris/publications/ss1_stream_implementation.pdf paper. 
